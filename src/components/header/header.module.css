@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 120px;
+    max-width: 1080px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.title{
+    font-size: 3rem;
+}
+
+.titleSpan{
+    color: skyblue;
+}
